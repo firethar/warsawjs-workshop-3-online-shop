@@ -1,4 +1,3 @@
-import ProductComponent from '../components/product-component.js';
 import angular from 'angular';
 
 
