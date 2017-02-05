@@ -1,3 +1,3 @@
-import file from './file'
+import loadAppModule from './modules/app-module.js';
 
-file.test();
+loadAppModule();
